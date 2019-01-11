@@ -1,6 +1,6 @@
-#webstore
-This is an online store application.
-Stack: React -> Apollo Client -> GraphQL Yoga -> Prisma
+# webstore
+## This is an online store application.
+### Stack: React -> Apollo Client -> GraphQL Yoga -> Prisma
 
 1. React.js for the interface
 2. Next.js for SSR, routing, tooling
