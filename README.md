@@ -1,4 +1,4 @@
-#webstore
+# webstore
 This is an online store application.
 Stack: React -> Apollo Client -> GraphQL Yoga -> Prisma
 
