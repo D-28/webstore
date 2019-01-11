@@ -1,6 +1,8 @@
-/backend/variables.env
-.DS_Store
 node_modules/
+.DS_Store
 *.log
 haters/
-.idea/
+.next/
+.build/
+layout.md
+variables.env
