@@ -1,5 +1,5 @@
 {
-  "/Users/Daniil/Desktop/Programming/Advanced_React/Advanced-React-master/sick-fits/frontend/noop": [
+  "./noop": [
     {
       "id": "./node_modules/next/dist/client/noop.js",
       "name": "./node_modules/next/dist/client/noop.js",
